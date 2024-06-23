@@ -1,5 +1,0 @@
-write a c program to print hello 
-write a c program to perform arithmetical program
-write a c program to find area of circle
-write a c program to convert miles to kilometers
-write a c program to convert fahrenheit to celsius
