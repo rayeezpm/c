@@ -8,7 +8,7 @@ int main()
         {
             if(n<=i)
             {
-                printf("%c ",'A'+n);
+                printf("%c",'A'+n);
             }
         }
         printf("\n");
